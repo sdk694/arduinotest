@@ -9,45 +9,7 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
 
-
-  for(i=0;i<10;i++){
-    digitalWrite(13,HIGH);
-  }
-    for(i=0;i<10;i++){
-    digitalWrite(13,HIGH);
-  }
-  for(i=0;i<6;i++){
-    digitalWrite(13,HIGH);
-  }
-  for(i=0;i<7;i++){
-    digitalWrite(13,HIGH);
-  }
-    for(i=0;i<8;i++){
-    digitalWrite(13,HIGH);
-  }
-  for(i=0;i<9;i++){
-    digitalWrite(13,HIGH);
-  }
-
-
-  iffff
-  iffff
-    iffff
-  iffff  iffff
-  iffff  iffff
-  iffff  iffff
-  iffff  iffff
-  iffff  iffff
-  iffff
-
-
-  while
-    while
-      while  while  while
-        while  while  while
-		
-	serial.println();	
-		serial.println();		serial.println();		serial.println();		serial.println();		serial.println();	
+ 
 		
 		
 }
