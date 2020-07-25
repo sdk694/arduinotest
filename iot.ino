@@ -16,13 +16,13 @@ void loop() {
     for(i=0;i<10;i++){
     digitalWrite(13,HIGH);
   }
-  for(i=0;i<10;i++){
+  for(i=0;i<6;i++){
     digitalWrite(13,HIGH);
   }
-  for(i=0;i<10;i++){
+  for(i=0;i<7;i++){
     digitalWrite(13,HIGH);
   }
-    for(i=0;i<10;i++){
+    for(i=0;i<8;i++){
     digitalWrite(13,HIGH);
   }
   for(i=0;i<9;i++){
